@@ -1,6 +1,6 @@
 
 # 🧠 NeuroRoute AI Platform
-# Deployment Link :-
+# Deployment Link :-https://neuroroute-ai.streamlit.app/
 🚀 **Predict. Optimize. Deliver Smarter.**
 
 NeuroRoute AI Platform is an **AI-powered logistics intelligence system** that predicts delivery time using machine learning and provides actionable insights for route optimization.
